@@ -32,7 +32,7 @@ Sou apaixonado por tecnologia e desenvolvimento web. Gosto de criar interfaces m
 
 </div>
 
---
+---
 
 ## 📫 Entre em contato
 
